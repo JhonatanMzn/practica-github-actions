@@ -14,5 +14,8 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    steps: run echo 'Hola mundo'
+    steps: 
+      - name: Mostrando mensaje
+        run: echo "Hola mundo"
+
       
