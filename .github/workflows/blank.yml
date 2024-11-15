@@ -1,5 +1,5 @@
-
-name: CI
+name: Trabajin
+run-name: workflow iniciado por @${{ github.actor }}
 
 on:
   
@@ -18,4 +18,3 @@ jobs:
       - name: Mostrando mensaje
         run: echo "Hola mundo"
 
-      
