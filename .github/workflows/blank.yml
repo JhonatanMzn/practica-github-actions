@@ -1,4 +1,4 @@
-name: Trabajin
+name: workflow test
 run-name: workflow iniciado por @${{ github.actor }}
 
 on:
